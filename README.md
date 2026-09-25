@@ -1,2 +1,2 @@
 # c-programming
-My C programming  — basic programs, problem-solving practice, and concepts I learned.
+A collection of my C programming practice and learning journey as a B.Tech CSE student
